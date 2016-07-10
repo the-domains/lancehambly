@@ -1,0 +1,14 @@
+layout_spectrum: 0.5184474280104041
+typography_spectrum: 0.4168676983099431
+color:
+  brandStrength: 0.035722199361771345
+  lightness: 0.16117562423460186
+  saturation: 0.7846731236204505
+  rhythmicContrast: 0.6078136689029634
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: lancehambly
