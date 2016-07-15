@@ -1,14 +1,17 @@
-layout_spectrum: 0.18136591743677855
-typography_spectrum: 0.015452568419277668
+layout_spectrum: 0.5184474280104041
+typography_spectrum: 0.4168676983099431
 color:
-  brandStrength: 0.46725864079780877
-  lightness: 0.6053885933943093
-  saturation: 0.07941731112077832
-  rhythmicContrast: 0.8700454859063029
+  brandStrength: 0.035722199361771345
+  lightness: 0.16117562423460186
+  saturation: 0.7846731236204505
+  rhythmicContrast: 0.6078136689029634
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: lancehambly
+author:
+  name: Lance Hambly
+  email: lrhambly@gmail.com
